@@ -86,3 +86,5 @@ If this tool is helpful to your research, please consider citing it with:
     month={Jun}
 }
 ```
+
+add regex in node name or edge name and seq regex match
